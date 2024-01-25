@@ -1,0 +1,5 @@
+enes|enes123|ebeveyn
+ali|1ali234|cocuk
+ahmet|ahmet|cocuk
+harun|harun|cocuk
+erkan|errkan|cocuk
